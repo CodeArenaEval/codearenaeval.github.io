@@ -127,6 +127,20 @@
             "group2": "200B+"
         },
         {
+            "model": "Doubao-Pro",
+            "Size": "🔒",
+            "User Interface&Experience": "51.1/20.0",
+            "Development&Programming": "40.8/18.5",
+            "Specialized Computing": "55.3/26.3",
+            "Tools, Environments, and Practices": "38.2/19.1",
+            "Emerging Technologies&Applications": "47.5/22.0",
+            "Miscellaneous and General Inquiry": "36.4/31.8",
+            "Databases&Data Handling": "42.9/57.1",
+            "Avg": "43.6/21.5",
+            "group1": "Proprietary LLMs",
+            "group2": "200B+"
+        },
+        {
             "model": "Qwen2.5-0.5B-Instruct",
             "Size": "0.5B",
             "User Interface&Experience": "2.2/4.4",
@@ -561,7 +575,7 @@
             "group2": "20B+"
         },
         {
-            "model": "Qwen-SynCoder",
+            "model": "Qwen2.5-SynCoder",
             "Size": "32B",
             "User Interface&Experience": "55.6/26.7",
             "Development&Programming": "49.2/20.8",
@@ -602,6 +616,9 @@
         },
         {
             "model_name": "Qwen-Max"
+        },
+        {
+            "model_name": "Doubao-Pro"
         },
         {
             "model_name": "Qwen2.5-0.5B-Instruct"
@@ -697,7 +714,7 @@
             "model_name": "QwQ-32B-Preview"
         },
         {
-            "model_name": "Qwen-SynCoder"
+            "model_name": "Qwen2.5-SynCoder"
         }
     ],
     "date_marks": [
@@ -705,6 +722,7 @@
         1685570400000 ,
         1688162400000 ,
         1690840800000 ,
+        1698793200000 ,
         1693519200000 ,
         1696111200000 ,
         1698793200000 ,
